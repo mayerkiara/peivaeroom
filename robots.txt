@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eekoemaev.trailmix.ie/sitemap.xml
